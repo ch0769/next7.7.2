@@ -137,7 +137,7 @@ github_banner:
 
 自定义页面
 cd your-hexo-site
- hexo new page custom_name    #创建一个新的custom_name页面
+ hexo new page custom_name     #创建一个新的custom_name页面
 
 添加«标签»页面
  cd your-hexo-site
