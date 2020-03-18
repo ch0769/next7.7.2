@@ -88,8 +88,8 @@ related_posts:
 
 捐赠
 reward_settings:
-  # If true, reward would be displayed in every article by default.
-  # You can show or hide reward in a specific article throuth `reward: true | false` in Front-matter.
+  1# If true, reward would be displayed in every article by default.
+  2# You can show or hide reward in a specific article throuth `reward: true | false` in Front-matter.
   enable: true
   animation: false
   #comment: Donate comment here
@@ -121,10 +121,10 @@ reading_progress:
 
 bookmark:
   enable: true
-  # Customize the color of the bookmark.
+ 1 # Customize the color of the bookmark.
   color: "#222"
-  # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
-  # If manual, only save it by clicking the bookmark-icon.
+  2# If auto, save the reading progress when closing the page or clicking the bookmark-icon.
+ 3 # If manual, only save it by clicking the bookmark-icon.
   save: auto
 
 GitHub横幅
